@@ -34,7 +34,7 @@ body {
   font-family: var(--font-family);
   color: var(--dark-color);
   background: var(--bg-gradient);
-  text-align: left;
+  text-align: center;
 }
 
 .orb-canvas {
